@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mxazer/AndroidstudioProjects/GroceryGalore/app/libs/bolts-android-1.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e">
+        <dex dex="/Users/mxazer/AndroidstudioProjects/GroceryGalore/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.3-fab40f8bc025ec85291227b4b72592f5c84a8176.jar" />
+    </item>
+    <item
+        jar="/Users/mxazer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/mxazer/AndroidstudioProjects/GroceryGalore/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-53655270de6bbf6a69c1637c43a92ae4232aec8a.jar" />
+    </item>
+    <item
+        jar="/Users/mxazer/AndroidstudioProjects/GroceryGalore/app/libs/Parse-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87c45f9f66da531a65f065ee32f603c7e6db1528">
+        <dex dex="/Users/mxazer/AndroidstudioProjects/GroceryGalore/app/build/intermediates/pre-dexed/debug/Parse-1.7.1-363673969ea96c31186936e8036c3cb41a0ae5f4.jar" />
+    </item>
+
+</items>

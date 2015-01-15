@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mxazer.grocerygalore.LoginActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <ImageView
+        android:id="@+id/main_background_imageview"
+        android:contentDescription="@string/main_background_imageview_description"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/grocery_store"
+        android:scaleType="centerCrop" />
+
+</FrameLayout>
+<!-- From: file:/Users/mxazer/AndroidstudioProjects/GroceryGalore/app/src/main/res/layout/activity_login.xml -->
