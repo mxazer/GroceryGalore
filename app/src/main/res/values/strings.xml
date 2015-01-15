@@ -18,5 +18,7 @@
     <string name="login_error_message">Please make sure to enter a username and password</string>
     <string name="login_error_title">Error logging in</string>
     <string name="menu_logout_label">Log out</string>
+    <string name="error_title">Could not retrieve the Patient List</string>
+    <string name="empty_patients_label">There are currently no patients registered. Add one to begin</string>
 
 </resources>
